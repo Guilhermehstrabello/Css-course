@@ -1,0 +1,20 @@
+/*Aula 7*/
+#exemplo{
+    background-color:darkmagenta; 
+     width: 400px;
+     color:#fff;
+      padding:30px 30px 30px 30px;
+      margin: 20px 10px 20px 10px;
+
+}
+#exemplo2{background-color: darkorchid;
+    width: 300px;
+    color: #fff;
+    margin: 20px 10px 20px 10px;
+    padding: 30px 30px 30px 30px;
+
+}
+
+
+/*Aula 6*/
+.conteudo {background-color: darkred; padding: 20px;}
