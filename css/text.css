@@ -1,12 +1,25 @@
+/* Aula 10*/
+*{box-sizing: border-box;}
+#teste {background-color: lightgreen; width: 1000px; padding: 30px;}
+
+
+/*Aula 8 e 9*
 p {
   color: blueviolet;
+  font-size: 20px;
+  text-align: justify;
+  text-indent: 10px;
+  text-shadow: 2px 16px 2px blue;
 }
 h1 {
   text-align: right;
+  text-decoration: underline;
 }
 h2 {
   text-align: left;
+  text-decoration: overline;
 }
 h3 {
   text-align: center;
+  text-decoration: line-through;
 }
