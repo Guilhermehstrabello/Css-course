@@ -1,4 +1,8 @@
-/*Aula 19*/
+/*Aula 20*/
+#Text {border:solid 2px blue; outline: dotted 4px red;}
+
+
+/*Aula 19*
 #Conteúdo {width: 600px; height: 1000px; background-color: darkcyan; position: relative;}
 #Texto {width: 300px; height: 400px; background-color: darkorchid; position:absolute; right: 20px; bottom: 40px;}
 
@@ -16,7 +20,7 @@ width: 600px;
 }
 
 /*Aula 15*
->>>>>>> 35f79824ffcd7cf49506d5381c4b05434ae4902e
+
 p {font-family: 'Lexend', sans-serif; font-size: 1em}
 
 /*Aula 12*
