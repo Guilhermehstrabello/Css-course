@@ -1,4 +1,9 @@
-/* Aula 18*/
+/*Aula 19*/
+#Conteúdo {width: 600px; height: 1000px; background-color: darkcyan; position: relative;}
+#Texto {width: 300px; height: 400px; background-color: darkorchid; position:absolute; right: 20px; bottom: 40px;}
+
+
+/* Aula 18*
 #base {background-color: darkorchid; width: 800px; height: 800px;}
 #direita{background-color: deepskyblue; width: 400px; height: 400px; float: right;}
 #esquerda{background-color: darkblue; width: 400px; height: 400px; float: left;}
