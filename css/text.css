@@ -1,7 +1,7 @@
 /* Aula 18*/
-#base {background-color: greenyellow; width: 600px; height: 600px;}
-#direita {background-color:magenta; width: 200px; height: 200px; float: right;}
-#esquerda {background-color: blue; width: 200px; height: 200px; float: left;}
+#base {background-color: darkorchid; width: 800px; height: 800px;}
+#direita{background-color: deepskyblue; width: 400px; height: 400px; float: right;}
+#esquerda{background-color: darkblue; width: 400px; height: 400px; float: left;}
  
 /*Aula 16 e 17*
 #cores {
