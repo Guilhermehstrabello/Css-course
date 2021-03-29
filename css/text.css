@@ -1,5 +1,5 @@
 /* Aula 21*/
-#sla {height: 300px; width: 300px; background-color: blue; transition: all 2s linear;}
+#sla {height: 300px; width: 300px; background-color: blue; transition: all 1s linear;}
 #sla:hover{height: 400px; width: 400px; background-color: darkmagenta;}
 
 
